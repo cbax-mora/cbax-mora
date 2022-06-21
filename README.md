@@ -1,4 +1,4 @@
-<img src="https://st3.depositphotos.com/10325396/17006/i/1600/depositphotos_170069614-stock-photo-programming-code-abstract-technology-background.jpg" width="100%" height="100%">
+<img src="https://st3.depositphotos.com/10325396/17006/i/1600/depositphotos_170069614-stock-photo-programming-code-abstract-technology-background.jpg" width="80%" height="80%">
 
 
 <h1 align="center">Hi 👋, I'm Sebastían Mora</h1>
