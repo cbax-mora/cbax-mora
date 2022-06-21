@@ -1,4 +1,4 @@
-<img src="https://tse2.mm.bing.net/th?id=OIP.7zS7VflVVmlAy6P4d9moCwHaDs&pid=Api&P=0&w=370&h=185" width="100%">
+<img src="https://st3.depositphotos.com/10325396/17006/i/1600/depositphotos_170069614-stock-photo-programming-code-abstract-technology-background.jpg" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Sebastían Mora</h1>
