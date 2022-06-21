@@ -1,4 +1,4 @@
-<img src="https://cadenaser00.epimg.net/ser/imagenes/2018/11/19/ciencia/1542626827_536344_1542629949_noticia_normal.jpg" align = center width="80%" height="80%">
+<img src="https://cadenaser00.epimg.net/ser/imagenes/2018/11/19/ciencia/1542626827_536344_1542629949_noticia_normal.jpg" align = center width="200%" height="80%">
 
 
 <h1 align="center">Hi 👋, I'm Sebastían Mora</h1>
